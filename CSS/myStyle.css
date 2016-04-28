@@ -1,0 +1,55 @@
+
+
+h1{
+	height:24px;
+	background-color: #e6eeff;
+	text-align: center;
+	font-size: 18px;
+}
+
+#Orange_Box{
+
+background-color: orange;
+width:170px;
+height:350px;
+margin-left: 43%;
+margin-top: 5%;
+}
+
+.light{
+	border: 10px solid black;
+	width:70px;
+	height: 70px;
+	border-radius: 50px;
+	margin-left: 45.5%;
+	position: absolute;
+}
+#top{
+	top:100px;
+	background-color: darkred;
+}
+
+#middle{
+
+	top:220px;
+	background-color: darkkhaki;
+}
+
+#bottom{
+	top:340px;
+	background-color: forestgreen;
+}
+.button{
+	border:2px solid black;
+	width:150px;
+	height:30px;
+	text-align: center;
+	font-size: 25px;
+	border-radius: 15px;
+	float: left;
+	margin-top: 5%
+	}
+#red{
+	margin-left: 30%;
+
+}
